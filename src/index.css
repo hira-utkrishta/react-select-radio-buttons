@@ -1,0 +1,38 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  background: #9ddaa5;
+}
+.phoneInput {
+  width: 28%;
+  padding: 6px;
+}
+
+.inputText div {
+  display: flex;
+  padding-right: 20px;
+}
+h1 {
+  text-align: center;
+  margin: 20px;
+  text-decoration: underline;
+}
+.Main_Container {
+  width: 700px;
+  box-shadow: 2px 2px 15px black;
+  border-radius: 5px;
+  height: 450px;
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  margin: 20px;
+  margin: 0 auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.button :hover {
+  background-color: black;
+}
